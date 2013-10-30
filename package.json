@@ -1,0 +1,28 @@
+{
+  "name": "caradoc-entity",
+  "description": "entity managment for caradoc framework",
+  "version": "0.1.0",
+  "author": {
+    "name": "guillaume derouineau",
+    "email": "admin@caradoc.fr"
+  },
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "caradoc",
+    "frameword",
+    "web",
+    "api",
+    "router",
+    "security",
+    "app",
+    "router",
+    "server",
+    "entity"
+  ],
+  "main": "index",
+  "readmeFilename": "Readme.md",
+  "_id": "caradoc-entity@0.1.0",
+  "_from": "caradoc-entity@~0.1.0"
+}
