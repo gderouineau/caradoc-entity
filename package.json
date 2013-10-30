@@ -24,5 +24,10 @@
   "main": "index",
   "readmeFilename": "Readme.md",
   "_id": "caradoc-entity@0.1.0",
-  "_from": "caradoc-entity@~0.1.0"
+  "_from": "caradoc-entity@~0.1.0",
+  "homepage": "http://github.com/gderouineau/caradoc-entity",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/gderouineau/caradoc-entity.git"
+    }
 }
